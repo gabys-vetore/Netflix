@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>AES</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>133488a0833b2210aa136f80ceaad370</logo>
+        <menu/>
+        <name>Netflix</name>
+        <package_json/>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_1270470_netflix</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Netflix Platform</short_description>
+        <source>x_1270470_netflix</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-01 20:20:53</sys_created_on>
+        <sys_id>b234cce0833b2210aa136f80ceaad32f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-01 20:21:11</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=b234cce0833b2210aa136f80ceaad32f"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>Pink Netflix App Icon _ App icon, Ios app icon design, Iphone photo app _ Iphone photo app, App .jpg</file_name>
+        <hash>8886bfb24114b50db8f6ce9d8129c91bdb36af08a0d4e923d4619b997c45ce1a</hash>
+        <image_height>736</image_height>
+        <image_width>736</image_width>
+        <size_bytes>9833</size_bytes>
+        <size_compressed>6033</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-01 20:20:56</sys_created_on>
+        <sys_id>133488a0833b2210aa136f80ceaad370</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-01 20:20:57</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>b234cce0833b2210aa136f80ceaad32f</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="Pink Netflix App Icon _ App icon, Ios app icon design, Iphone photo app _ Iphone photo app, App .jpg" sys_id="133488a0833b2210aa136f80ceaad370">133488a0833b2210aa136f80ceaad370</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-01 20:20:56</sys_created_on>
+        <sys_id>533488a0833b2210aa136f80ceaad370</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>8032</length>
+        <position>1</position>
+        <sys_attachment display_value="Pink Netflix App Icon _ App icon, Ios app icon design, Iphone photo app _ Iphone photo app, App .jpg" sys_id="133488a0833b2210aa136f80ceaad370">133488a0833b2210aa136f80ceaad370</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-01 20:20:56</sys_created_on>
+        <sys_id>d33488a0833b2210aa136f80ceaad370</sys_id>
+    </sys_attachment_doc>
+</record_update>

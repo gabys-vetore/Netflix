@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1270470_netflix.user" name="x_1270470_netflix.user">f634cce0833b2210aa136f80ceaad35c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-01 20:20:54</sys_created_on>
+        <sys_id>b234cce0833b2210aa136f80ceaad36a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f634cce0833b2210aa136f80ceaad35c</sys_name>
+        <sys_package display_value="Netflix" source="x_1270470_netflix">b234cce0833b2210aa136f80ceaad32f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">b234cce0833b2210aa136f80ceaad32f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b234cce0833b2210aa136f80ceaad36a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-01 20:20:54</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
