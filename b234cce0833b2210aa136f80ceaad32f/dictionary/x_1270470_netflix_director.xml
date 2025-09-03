@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8509f7ac837b6210aa136f80ceaad326" label="Director" max_length="40" name="x_1270470_netflix_director" type="collection">
+        <element display="true" label="Name" max_length="250" name="name" type="string"/>
+    </element>
+</database>
