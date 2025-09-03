@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Title">52913d458377e210aa136f80ceaad3eb</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-03 17:38:37</sys_created_on>
+        <sys_id>379139c58377e210aa136f80ceaad347</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0</sys_name>
+        <sys_package display_value="Netflix" source="x_1270470_netflix">b234cce0833b2210aa136f80ceaad32f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">b234cce0833b2210aa136f80ceaad32f</sys_scope>
+        <sys_update_name>question_choice_379139c58377e210aa136f80ceaad347</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-03 17:38:37</sys_updated_on>
+        <text>0</text>
+        <value>0</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=379139c58377e210aa136f80ceaad347"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Netflix">b234cce0833b2210aa136f80ceaad32f</application>
+        <file_path/>
+        <instance_id>0ed89432dbc6421002022a5913961998</instance_id>
+        <instance_name>dev268392</instance_name>
+        <name>question_choice_379139c58377e210aa136f80ceaad347</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>100</order><published_ref/><question display_value="Title">52913d458377e210aa136f80ceaad3eb</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-03 17:38:37</sys_created_on><sys_id>379139c58377e210aa136f80ceaad347</sys_id><sys_mod_count>0</sys_mod_count><sys_name>0</sys_name><sys_package display_value="Netflix" source="x_1270470_netflix">b234cce0833b2210aa136f80ceaad32f</sys_package><sys_policy/><sys_scope display_value="Netflix">b234cce0833b2210aa136f80ceaad32f</sys_scope><sys_update_name>question_choice_379139c58377e210aa136f80ceaad347</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-03 17:38:37</sys_updated_on><text>0</text><value>0</value></question_choice><fx_price action="delete_multiple" query="id=379139c58377e210aa136f80ceaad347"/></record_update>]]></payload>
+        <payload_hash>-597120438</payload_hash>
+        <record_name>0</record_name>
+        <reverted_from/>
+        <source>fbabc82c833b2210aa136f80ceaad3ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-03 17:38:38</sys_created_on>
+        <sys_id>9d42f9098377e210aa136f80ceaad3a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19910a8bda50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-03 17:38:38</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>9142f909e377e210795419ea6770faa2</update_guid>
+        <update_guid_history>9142f909e377e210795419ea6770faa2:-597120438</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="0">5844068d83b7e210aa136f80ceaad3e1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-03 18:57:12</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>28603d4193714c18841f282e2d562c40</sys_id>
+        <sys_metadata>379139c58377e210aa136f80ceaad347</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0</sys_name>
+        <sys_package display_value="Netflix" source="x_1270470_netflix">b234cce0833b2210aa136f80ceaad32f</sys_package>
+        <sys_parent display_value="Rating">52913d458377e210aa136f80ceaad3eb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">b234cce0833b2210aa136f80ceaad32f</sys_scope>
+        <sys_scope_delete display_value="">6724d1faa5704af8807a22b16f6b0640</sys_scope_delete>
+        <sys_update_name>question_choice_379139c58377e210aa136f80ceaad347</sys_update_name>
+        <sys_update_version display_value="question_choice_379139c58377e210aa136f80ceaad347">9d42f9098377e210aa136f80ceaad3a2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-03 18:57:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
