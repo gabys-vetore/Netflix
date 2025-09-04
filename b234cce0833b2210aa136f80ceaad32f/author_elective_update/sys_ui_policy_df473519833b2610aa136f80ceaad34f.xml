@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="DELETE">
+        <active>true</active>
+        <conditions/>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>Record Producer Mandatory</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-04 12:41:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>df473519833b2610aa136f80ceaad34f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Record Producer Mandatory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Netflix" source="x_1270470_netflix">b234cce0833b2210aa136f80ceaad32f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">b234cce0833b2210aa136f80ceaad32f</sys_scope>
+        <sys_update_name>sys_ui_policy_df473519833b2610aa136f80ceaad34f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-04 12:46:19</sys_updated_on>
+        <table>x_1270470_netflix_review</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Netflix">b234cce0833b2210aa136f80ceaad32f</application>
+        <file_path/>
+        <instance_id>0ed89432dbc6421002022a5913961998</instance_id>
+        <instance_name>dev268392</instance_name>
+        <name>sys_ui_policy_df473519833b2610aa136f80ceaad34f</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions/&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Record Producer Mandatory&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-09-04 12:41:55&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;df473519833b2610aa136f80ceaad34f&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Record Producer Mandatory&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Netflix" source="x_1270470_netflix"&gt;b234cce0833b2210aa136f80ceaad32f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Netflix"&gt;b234cce0833b2210aa136f80ceaad32f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_df473519833b2610aa136f80ceaad34f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-09-04 12:46:19&lt;/sys_updated_on&gt;&lt;table&gt;x_1270470_netflix_review&lt;/table&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-706597580</payload_hash>
+        <record_name>Record Producer Mandatory</record_name>
+        <reverted_from/>
+        <source>fbabc82c833b2210aa136f80ceaad3ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-04 12:46:19</sys_created_on>
+        <sys_id>51f87d59833b2610aa136f80ceaad349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19914c37c9d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-04 12:46:19</sys_updated_on>
+        <type>UI Policy</type>
+        <update_guid>d5f87d59b53b2610565b73174ea8ab48</update_guid>
+        <update_guid_history>d5f87d59b53b2610565b73174ea8ab48:-706597580,d8a87159443b26102da558cb579537d1:-632275674,74f73159513b261012aa2f0c70dd3364:-1771092646</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-04 12:49:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy">sys_ui_policy</sys_db_object>
+        <sys_id>6bdc4b6f178740d09a1158721ba36900</sys_id>
+        <sys_metadata>df473519833b2610aa136f80ceaad34f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record Producer Mandatory</sys_name>
+        <sys_package display_value="Netflix" source="x_1270470_netflix">b234cce0833b2210aa136f80ceaad32f</sys_package>
+        <sys_parent display_value="Review ">f64dd878833f6210aa136f80ceaad3a8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">b234cce0833b2210aa136f80ceaad32f</sys_scope>
+        <sys_scope_delete display_value="">6724d1faa5704af8807a22b16f6b0640</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_df473519833b2610aa136f80ceaad34f</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_df473519833b2610aa136f80ceaad34f">51f87d59833b2610aa136f80ceaad349</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-04 12:49:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
