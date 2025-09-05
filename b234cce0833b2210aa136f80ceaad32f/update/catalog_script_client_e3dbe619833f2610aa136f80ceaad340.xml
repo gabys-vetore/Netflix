@@ -7,7 +7,7 @@
         <applies_sc_task>false</applies_sc_task>
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
-        <cat_item display_value="Review (Script Include)">edb45e9583bb2610aa136f80ceaad3a9</cat_item>
+        <cat_item display_value="Review (Script Include - AJAX)">edb45e9583bb2610aa136f80ceaad3a9</cat_item>
         <cat_variable>IO:75b4125d83bb2610aa136f80ceaad3be</cat_variable>
         <condition/>
         <description/>

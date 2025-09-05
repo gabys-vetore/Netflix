@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="Review (Script Include)">edb45e9583bb2610aa136f80ceaad3a9</sc_cat_item>
+        <sc_cat_item display_value="Review (Script Include - AJAX)">edb45e9583bb2610aa136f80ceaad3a9</sc_cat_item>
         <sc_category display_value="Netflix">592e11018337e210aa136f80ceaad3f5</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
