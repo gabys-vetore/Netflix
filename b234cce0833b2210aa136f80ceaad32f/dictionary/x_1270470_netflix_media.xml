@@ -2,6 +2,7 @@
     <element db_object_id="23aa3b2083bb6210aa136f80ceaad318" label="Media" max_length="40" name="x_1270470_netflix_media" type="collection">
         <element default="0" label="Average Rating" max_length="255" name="average_rating" type="float"/>
         <element default="0" label="Metascore" max_length="40" name="metascore" type="integer"/>
+        <element label="Release Year" max_length="4" name="release_year" type="string"/>
         <element label="Production" max_length="250" name="production" type="string"/>
         <element label="Synopsis" max_length="4000" name="synopsis" type="string"/>
         <element label="Language" max_length="250" name="language" type="string"/>
@@ -10,7 +11,7 @@
         <element choice="1" label="Type" max_length="40" name="type" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Episode" sequence="1" value="episode"/>
-                <element inactive_on_update="false" label="Serie" sequence="2" value="serie"/>
+                <element inactive_on_update="false" label="Series" sequence="2" value="series"/>
                 <element inactive_on_update="false" label="Movie" sequence="0" value="movie"/>
             </choice>
         </element>
