@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="23aa3b2083bb6210aa136f80ceaad318" label="Media" max_length="40" name="x_1270470_netflix_media" type="collection">
         <element default="0" label="Average Rating" max_length="255" name="average_rating" type="float"/>
+        <element choice="1" default="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Draft" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Completed" sequence="1" value="3"/>
+            </choice>
+        </element>
         <element default="0" label="Metascore" max_length="40" name="metascore" type="integer"/>
         <element label="Release Year" max_length="4" name="release_year" type="string"/>
         <element label="Production" max_length="250" name="production" type="string"/>
@@ -23,5 +29,14 @@
         <element default="0" label="IMDB Rating" max_length="255" name="imdb_rating" type="float"/>
         <element label="Genre" max_length="1024" name="genre" reference="x_1270470_netflix_genre" type="glide_list"/>
         <element label="Writers" max_length="4000" name="writters" type="string"/>
+        <element choice="1" default="1" label="Integration State " max_length="40" name="integration_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Integration Success" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Integrating" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Media not Found" sequence="4" value="7"/>
+                <element inactive_on_update="false" label="Starting" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Integration Failure" sequence="3" value="4"/>
+            </choice>
+        </element>
     </element>
 </database>
