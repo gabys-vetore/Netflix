@@ -29,6 +29,7 @@
         <element default="0" label="IMDB Rating" max_length="255" name="imdb_rating" type="float"/>
         <element label="Genre" max_length="1024" name="genre" reference="x_1270470_netflix_genre" type="glide_list"/>
         <element label="Writers" max_length="4000" name="writters" type="string"/>
+        <element label="Integration Error Message" max_length="300" name="integration_error_message" type="string"/>
         <element choice="1" default="1" label="Integration State " max_length="40" name="integration_state" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Integration Success" sequence="2" value="3"/>
