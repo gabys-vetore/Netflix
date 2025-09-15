@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Review">6ccfa9458377e210aa136f80ceaad3ce</cat_item>
+        <cat_item display_value="Suggestion">0e8e3337837f6210aa136f80ceaad3be</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -22,7 +22,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>description</field>
+        <field>release_year</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -42,21 +42,21 @@
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>description</name>
+        <name>release_year</name>
         <not_available_conversation>false</not_available_conversation>
         <order>300</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Comment</question_text>
+        <question_text>Release Year</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table>x_1270470_netflix_review</record_producer_table>
+        <record_producer_table>x_1270470_netflix_suggestion</record_producer_table>
         <reference/>
         <reference_qual/>
         <reference_qual_condition/>
@@ -77,25 +77,25 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-09-03 17:43:17</sys_created_on>
-        <sys_id>1143b1498377e210aa136f80ceaad325</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>Comment</sys_name>
+        <sys_created_on>2025-09-12 17:48:30</sys_created_on>
+        <sys_id>47ba0c04838c7210aa136f80ceaad39c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Release Year</sys_name>
         <sys_package display_value="Netflix" source="x_1270470_netflix">b234cce0833b2210aa136f80ceaad32f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Netflix">b234cce0833b2210aa136f80ceaad32f</sys_scope>
-        <sys_update_name>item_option_new_1143b1498377e210aa136f80ceaad325</sys_update_name>
+        <sys_update_name>item_option_new_47ba0c04838c7210aa136f80ceaad39c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-12 16:55:50</sys_updated_on>
+        <sys_updated_on>2025-09-12 19:20:30</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
-        <type>2</type>
+        <type>6</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
-        <validate_regex/>
+        <validate_regex display_value="Release Year">fa2c948883cc7210aa136f80ceaad348</validate_regex>
         <variable_name/>
         <variable_set/>
         <variable_width/>
@@ -106,22 +106,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=1143b1498377e210aa136f80ceaad325"/>
-    <fx_price action="delete_multiple" query="id=1143b1498377e210aa136f80ceaad325"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=47ba0c04838c7210aa136f80ceaad39c"/>
+    <fx_price action="delete_multiple" query="id=47ba0c04838c7210aa136f80ceaad39c"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="BRL">BRL</currency>
         <field>price_if_checked</field>
-        <id>1143b1498377e210aa136f80ceaad325</id>
+        <id>47ba0c04838c7210aa136f80ceaad39c</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-09-03 17:43:17</sys_created_on>
-        <sys_id>215331898377e210aa136f80ceaad3ac</sys_id>
+        <sys_created_on>2025-09-12 17:48:30</sys_created_on>
+        <sys_id>fdda0c04838c7210aa136f80ceaad3b6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-03 17:43:17</sys_updated_on>
+        <sys_updated_on>2025-09-12 17:48:30</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -129,16 +129,16 @@
         <amount>0</amount>
         <currency display_value="BRL">BRL</currency>
         <field>rec_price_if_checked</field>
-        <id>1143b1498377e210aa136f80ceaad325</id>
+        <id>47ba0c04838c7210aa136f80ceaad39c</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-09-03 17:43:17</sys_created_on>
-        <sys_id>a55331898377e210aa136f80ceaad3ab</sys_id>
+        <sys_created_on>2025-09-12 17:48:30</sys_created_on>
+        <sys_id>75da0c04838c7210aa136f80ceaad3b6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-03 17:43:17</sys_updated_on>
+        <sys_updated_on>2025-09-12 17:48:30</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
