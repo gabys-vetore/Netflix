@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to table="x_1270470_netflix_m2m_actors_media">x_1270470_netflix_media.state=1^EQ<item display_value="Draft" endquery="false" field="x_1270470_netflix_media.state" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </applies_to>
+        <condition/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1270470_netflix_m2m_actors_media</name>
+        <operation display_value="add_to_list">394af8150a0a0b270096f5ac9d6bac47</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 19:04:29</sys_created_on>
+        <sys_id>3348bf3083c43210aa136f80ceaad301</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1270470_netflix_m2m_actors_media</sys_name>
+        <sys_package display_value="Netflix" source="x_1270470_netflix">b234cce0833b2210aa136f80ceaad32f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">b234cce0833b2210aa136f80ceaad32f</sys_scope>
+        <sys_update_name>sys_security_acl_3348bf3083c43210aa136f80ceaad301</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 19:04:29</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Netflix">b234cce0833b2210aa136f80ceaad32f</application>
+        <file_path/>
+        <instance_id>0ed89432dbc6421002022a5913961998</instance_id>
+        <instance_name>dev268392</instance_name>
+        <name>sys_security_acl_3348bf3083c43210aa136f80ceaad301</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to table="x_1270470_netflix_m2m_actors_media">x_1270470_netflix_media.state=1^EQ<item display_value="Draft" endquery="false" field="x_1270470_netflix_media.state" goto="false" newquery="false" operator="=" or="false" value="1"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></applies_to><condition/><decision_type>allow</decision_type><description/><local_or_existing>Local</local_or_existing><name>x_1270470_netflix_m2m_actors_media</name><operation display_value="add_to_list">394af8150a0a0b270096f5ac9d6bac47</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-15 19:04:29</sys_created_on><sys_id>3348bf3083c43210aa136f80ceaad301</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1270470_netflix_m2m_actors_media</sys_name><sys_package display_value="Netflix" source="x_1270470_netflix">b234cce0833b2210aa136f80ceaad32f</sys_package><sys_policy/><sys_scope display_value="Netflix">b234cce0833b2210aa136f80ceaad32f</sys_scope><sys_update_name>sys_security_acl_3348bf3083c43210aa136f80ceaad301</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-15 19:04:29</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1876935999</payload_hash>
+        <record_name>x_1270470_netflix_m2m_actors_media</record_name>
+        <reverted_from/>
+        <source>fbabc82c833b2210aa136f80ceaad3ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 19:04:29</sys_created_on>
+        <sys_id>cc09fb7083c43210aa136f80ceaad335</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1994ec3a88b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 19:04:29</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>c009fb70d0c43210c60457bedde15535</update_guid>
+        <update_guid_history>c009fb70d0c43210c60457bedde15535:-1876935999</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 19:44:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>28320cf9b6634d1d99fbbd6f2f581561</sys_id>
+        <sys_metadata>3348bf3083c43210aa136f80ceaad301</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1270470_netflix_m2m_actors_media</sys_name>
+        <sys_package display_value="Netflix" source="x_1270470_netflix">b234cce0833b2210aa136f80ceaad32f</sys_package>
+        <sys_parent display_value="x_1270470_netflix_m2m_actors_media">f52d0df08333a210aa136f80ceaad3d1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">b234cce0833b2210aa136f80ceaad32f</sys_scope>
+        <sys_scope_delete display_value="">6724d1faa5704af8807a22b16f6b0640</sys_scope_delete>
+        <sys_update_name>sys_security_acl_3348bf3083c43210aa136f80ceaad301</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_3348bf3083c43210aa136f80ceaad301">cc09fb7083c43210aa136f80ceaad335</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 19:44:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

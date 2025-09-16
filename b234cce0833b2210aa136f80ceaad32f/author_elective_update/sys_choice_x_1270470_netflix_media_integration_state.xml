@@ -110,5 +110,24 @@
             <sys_updated_on>2025-09-09 12:48:30</sys_updated_on>
             <value>7</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>integration_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Movie already in database</label>
+            <language>en</language>
+            <name>x_1270470_netflix_media</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-15 19:57:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-15 19:57:18</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
     </sys_choice>
 </record_update>
