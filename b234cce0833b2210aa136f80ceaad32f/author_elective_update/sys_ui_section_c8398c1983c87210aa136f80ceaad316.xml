@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="c8398c1983c87210aa136f80ceaad316" sys_domain="global" table="x_1270470_netflix_media" version="3" view="">
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_1270470_netflix_media</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-16 14:53:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8398c1983c87210aa136f80ceaad316</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1270470_netflix_media</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Netflix" source="x_1270470_netflix">b234cce0833b2210aa136f80ceaad32f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Netflix">b234cce0833b2210aa136f80ceaad32f</sys_scope>
+            <sys_update_name>sys_ui_section_c8398c1983c87210aa136f80ceaad316</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-16 14:53:42</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Netflix">b234cce0833b2210aa136f80ceaad32f</application>
+        <file_path/>
+        <instance_id>0ed89432dbc6421002022a5913961998</instance_id>
+        <instance_name>dev268392</instance_name>
+        <name>sys_ui_section_c8398c1983c87210aa136f80ceaad316</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 1" section_id="c8398c1983c87210aa136f80ceaad316" sys_domain="global" table="x_1270470_netflix_media" version="3" view=""><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 1</caption><header>false</header><name>x_1270470_netflix_media</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-16 14:53:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c8398c1983c87210aa136f80ceaad316</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1270470_netflix_media</sys_name><sys_overrides/><sys_package display_value="Netflix" source="x_1270470_netflix">b234cce0833b2210aa136f80ceaad32f</sys_package><sys_policy/><sys_scope display_value="Netflix">b234cce0833b2210aa136f80ceaad32f</sys_scope><sys_update_name>sys_ui_section_c8398c1983c87210aa136f80ceaad316</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-16 14:53:42</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>438330622</payload_hash>
+        <record_name>Media</record_name>
+        <reverted_from/>
+        <source>fbabc82c833b2210aa136f80ceaad3ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-16 14:53:42</sys_created_on>
+        <sys_id>94398c1983c87210aa136f80ceaad388</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19953046c590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-16 14:53:42</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>1c398c19fcc8721075861b29fc6d6487</update_guid>
+        <update_guid_history>1c398c19fcc8721075861b29fc6d6487:438330622</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-16 14:54:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>250ce101324341e78b2b87bc89e9f0b1</sys_id>
+        <sys_metadata>c8398c1983c87210aa136f80ceaad316</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 1</sys_name>
+        <sys_package display_value="Netflix" source="x_1270470_netflix">b234cce0833b2210aa136f80ceaad32f</sys_package>
+        <sys_parent display_value="Media">23aa3b2083bb6210aa136f80ceaad318</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">b234cce0833b2210aa136f80ceaad32f</sys_scope>
+        <sys_scope_delete display_value="">6724d1faa5704af8807a22b16f6b0640</sys_scope_delete>
+        <sys_update_name>sys_ui_section_c8398c1983c87210aa136f80ceaad316</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_c8398c1983c87210aa136f80ceaad316">94398c1983c87210aa136f80ceaad388</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-16 14:54:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

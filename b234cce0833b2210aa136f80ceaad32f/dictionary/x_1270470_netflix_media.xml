@@ -5,6 +5,7 @@
             <choice>
                 <element inactive_on_update="false" label="Draft" sequence="0" value="1"/>
                 <element inactive_on_update="false" label="Completed" sequence="1" value="3"/>
+                <element inactive_on_update="false" label="Duplicate" value="7"/>
             </choice>
         </element>
         <element default="0" label="Metascore" max_length="40" name="metascore" type="integer"/>
@@ -34,7 +35,6 @@
             <choice>
                 <element inactive_on_update="false" label="Integration Success" sequence="2" value="3"/>
                 <element inactive_on_update="false" label="Integrating" sequence="1" value="2"/>
-                <element inactive_on_update="false" label="Movie already in database" sequence="5" value="8"/>
                 <element inactive_on_update="false" label="Media not Found" sequence="4" value="7"/>
                 <element inactive_on_update="false" label="Starting" sequence="0" value="1"/>
                 <element inactive_on_update="false" label="Integration Failure" sequence="3" value="4"/>
